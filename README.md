@@ -1,7 +1,7 @@
 # Machine-Learning-for-Big-Data
 
 Models : 
-Artificial Neural Network
+Artificial Neural Network\n 
 Convolutional Neural Network
 Soft Vector Machine
 Perceptron
